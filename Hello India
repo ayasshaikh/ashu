@@ -1,0 +1,5 @@
+#inculde(studio.h)
+void main()
+{
+print("hello india.c");
+}
